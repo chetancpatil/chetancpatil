@@ -52,7 +52,7 @@
 <p align="center">
  
  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=620&lines=Java+%7C+SQL+%7C+HTML+%7C+CSS+%7C+JavaScript+%7C+Git+and+GitHub" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=650&lines=Java+%7C+SQL+%7C+HTML+%7C+CSS+%7C+JavaScript+%7C+Git+and+GitHub" alt="Typing SVG">
   </a>
 </p>
 
