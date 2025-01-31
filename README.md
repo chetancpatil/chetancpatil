@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/chetancpatil/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Application+Student+Engineer;Java%20|%20%20SQL%20|%20%20HTML%20CSS;&center=true&width=550&height=40">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Application+Student+Engineer;Java%20|%20%20SQL%20|%20%20HTML%20|%20%20CSS%20|%20%20JavaScript%20;&center=true&width=550&height=40">
   </a>
 </p>
 <br>
@@ -52,7 +52,7 @@
 <p align="center">
  
  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=620&lines=Java+%7C+Python+%7C+SQL+%7C+Shell+Script+%7C+Git+and+GitHub" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=620&lines=Java+%7C+SQL+%7C+HTML+CSS+%7C+%7C+Git+and+GitHub" alt="Typing SVG">
   </a>
 </p>
 
