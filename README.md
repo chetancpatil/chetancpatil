@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">  Hi, I'm Dhiraj Desale <br><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">  Hi, I'm Chetan Patil <br><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h2 align="center">:books: Master of Computer Application (M.C.A.) :books:</h2>
 
 <p align="center">
@@ -12,7 +12,6 @@
 <br>
 <h2>Languages</h2>
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-plain.svg" />
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
