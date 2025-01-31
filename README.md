@@ -61,8 +61,8 @@
 <br/>
 
 
-<h2 align="center">:smile: Language Used :smile:</h2>
+<!--<h2 align="center">:smile: Language Used :smile:</h2>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetancpatil&layout=compact"></div>
-<div style="display: flex; justify-content: space-between; margin-bottom: 10px; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px; flex-wrap: wrap; gap: 10px;">  --!>
 
  
