@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/chetancpatil/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Application+Student+Engineer;Java%20|%20%20SQL%20|%20%20HTML%20|%20%20CSS%20|%20%20JavaScript%20|%20%20Git+and+GitHub%20;&center=true&width=550&height=40">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Application+Student+Engineer;Java%20|%20%20SQL%20|%20%20HTML%20|%20%20CSS%20|%20%20JavaScript%20|%20%20Git+and+GitHub%20;&center=true&width=600&height=40">
   </a>
 </p>
 <br>
